@@ -1,2 +1,3 @@
 .env
-.csvfavorita/data/train.csv
+.csv
+favorita/data/train.csv
