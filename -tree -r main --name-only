@@ -1,0 +1,119 @@
+[33mcommit 51714889cb75ad984f94db397ddf509d905637eb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Wed Mar 5 14:40:00 2025 -0500
+
+    sp_titanic
+
+[33mcommit 434b423a7d6def7b59fe738d887512f40b57c004[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Fri Feb 7 17:29:12 2025 -0500
+
+    space
+
+[33mcommit c88f648f841b51dee684463741940bab0b7b23f2[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Fri Feb 7 17:26:52 2025 -0500
+
+    stop tracking .env
+
+[33mcommit 507be6b06a93b935293eb8f0a3dafead0e60db44[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Wed Feb 5 14:01:21 2025 -0500
+
+    autokeras
+
+[33mcommit 7251faa9e498af5b281b4011f591088dc4b960d9[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Wed Feb 5 14:00:16 2025 -0500
+
+    autokeras
+
+[33mcommit 1e2c07e37583a092bb0f942519baeae468157a94[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Mon Feb 3 11:01:45 2025 -0500
+
+    structure
+
+[33mcommit 16f47279aa3674ec8b99073af5c130b207ef34fa[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Thu Jan 30 16:46:20 2025 -0500
+
+    refinement
+
+[33mcommit f015f3aff76814c6fe5ab3d561d013d643d7e916[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Thu Jan 30 13:39:34 2025 -0500
+
+    no_more_subs
+
+[33mcommit d2a48c3600d60b363e610593d8440288f0c26067[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Thu Jan 30 11:28:48 2025 -0500
+
+    first_sub
+
+[33mcommit f5bfefe96548727a95017240c2c2fd884a15b0e8[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Wed Jan 29 17:40:52 2025 -0500
+
+    last_today
+
+[33mcommit a0a29ba4b3840d083bb3acaf68a6d8a51a40fc07[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Wed Jan 29 17:21:52 2025 -0500
+
+    cuda
+
+[33mcommit e5ffffa17a87eefebaf8d60014ac8bfc582127ba[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Wed Jan 29 15:50:01 2025 -0500
+
+    xgboost
+
+[33mcommit 81fc0b33fbf43ce8c99c7dde525c2c30d73c9793[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Tue Jan 28 19:46:55 2025 -0500
+
+    mape
+
+[33mcommit 3a40630210a45783693e6ba3dd1f8277b4af51f1[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Tue Jan 28 18:24:19 2025 -0500
+
+    reqs
+
+[33mcommit 49ab85b36c726b1c17a2466dae14d500fddcf46f[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Tue Jan 28 18:22:27 2025 -0500
+
+    ltsm
+
+[33mcommit f9dcf7cc658b986dad8f49afd2126ea8b15fea52[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Tue Jan 28 13:54:40 2025 -0500
+
+    all-today
+
+[33mcommit e1bdf8dadbf5e843e4d2ba62634f06553c4ea855[m
+Author: Leo Cedeno <leonardo.cedeno@gmail.com>
+Date:   Tue Jan 28 13:17:20 2025 -0500
+
+    all_reqs
+
+[33mcommit 0a1ff4232990f2def1b5e872f5d49976e247664a[m
+Author: leo.cedeno <leonardo.cedeno@gmail.com>
+Date:   Sun Jan 26 16:34:36 2025 -0500
+
+    profilereport
+
+[33mcommit 787bcf3428d5813f3ffbc81a636253e2a0f6979b[m
+Author: leo.cedeno <leonardo.cedeno@gmail.com>
+Date:   Sun Jan 26 13:15:29 2025 -0500
+
+    minor
+
+[33mcommit 9f4331137c8327848f8c9694ca82e8bbd7094f1f[m
+Author: leo.cedeno <leonardo.cedeno@gmail.com>
+Date:   Sun Jan 26 13:06:02 2025 -0500
+
+    setup_git
